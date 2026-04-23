@@ -1,7 +1,7 @@
 Mobile Developer
 
 ### Profile
-![Mountainn-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&theme=default&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mountainn-dev&layout=compact&theme=default)
 <br><br>
 ### Service
