@@ -6,8 +6,8 @@
   <!-- 타이핑 애니메이션 -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4A90E2&center=true&vCenter=true&width=540&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%AA%A8%EB%B0%94%EC%9D%BC+%EC%95%B1+%EB%A7%8C%EB%93%9C%EB%8A%94+mountain
-  n%EC%9D%B4%EC%97%90%EC%9A%94;%EC%86%90%EC%97%90+%EC%9E%A1%ED%9E%88%EB%8A%94+%EA%B1%B8+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B2%8C+%EC%A2%8B%EC%95%84%EC%9A%94;%EA%B8%B0%EB%A1%9D%EC%9D%80+%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90+%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4" alt="typing" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4A90E2&center=true&vCenter=true&width=540&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%AA%A8%EB%B0%94%EC%9D%BC+%EC%95%B1+%EB%A7%8C%EB%93%9C%EB%8A%94+mountainn%EC
+  %9D%B4%EC%97%90%EC%9A%94;%EC%86%90%EC%97%90+%EC%9E%A1%ED%9E%88%EB%8A%94+%EA%B1%B8+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B2%8C+%EC%A2%8B%EC%95%84%EC%9A%94;%EA%B8%B0%EB%A1%9D%EC%9D%80+%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90+%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4" alt="typing" />
     </a>
   </p>
 
