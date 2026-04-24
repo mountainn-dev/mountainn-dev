@@ -1,13 +1,14 @@
   <!-- 상단 배너 -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn-dev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn-dev&fontSize=58&fon
+  tColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
   </p>
 
   <!-- 타이핑 애니메이션 -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4A90E2&center=true&vCenter=true&width=540&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%AA%A8%EB%B0%94%EC%9D%BC+%EC%95%B1+%EB%A7%8C%EB%93%9C%EB%8A%94+mountainn%EC%9D%B4%EC%97%90%EC%9A%94;%EC%86%90%EC%97%90+%EC%9E%A1%ED%9E%88%EB%8A%94+%EA%B1%B8+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B2%8C+%EC%A2%8B%EC%95%84%EC%9A%94;%EA%B8%B0%EB%A1%9D%EC%9D%80+%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90+%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4&v=2" alt="typing" />
-</p>
- 
+  </p>
+
   ---
 
   ### 🙋‍♂ About
@@ -26,8 +27,6 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -43,25 +42,36 @@
   ### 📊 Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_b
+  order=true&rank_icon=github" alt="stats" height="165" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mountainn-dev&theme=tokyonight&hide_border=true" alt="streak" height="165" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountainn-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top-langs" height="165" />
-  </p>
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
   ---
 
-  ### 📌 만들고 있는 것들
+  ### 📊 Stats
 
   <p align="center">
-    <a href="https://github.com/circleon/CircleOnMobile">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=circleon&repo=CircleOnMobile&theme=tokyonight&hide_border=true" alt="CircleOnMobile" />
-    </a>
-    <a href="https://github.com/mountainn-dev/busing">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mountainn-dev&repo=busing&theme=tokyonight&hide_border=true" alt="busing" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_b
+  order=true&rank_icon=github" alt="stats" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mountainn-dev&theme=tokyonight&hide_border=true" alt="streak" height="165" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountainn-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="top-langs" height="165" />
   </p>
 
   ---
