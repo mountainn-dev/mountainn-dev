@@ -1,6 +1,6 @@
   <!-- 상단 배너 -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn-dev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
   </p>
 
   <!-- 타이핑 애니메이션 -->
@@ -15,7 +15,7 @@
   - 🏔️ 모바일 앱 만드는 mountainn이에요. 사용자 손에 가까운 레이어에서 벌어지는 일이 제일 재밌어요.
   - 📱 요즘은 Flutter로 주로 작업하고, 필요할 땐 Android 네이티브(Kotlin)도 같이 씁니다.
   - 🧱 Clean Architecture랑 MVVM을 선호해요. 몇 달 뒤에 다시 열어봐도 읽히는 코드면 좋겠다는 쪽이에요.
-  - 🌱 지금은 피트니스 앱 하나에 붙어 있어요. 실시간 싱크랑 로컬 캐싱을 꽤 오래 만지는 중입니다.
+  - 🌱 지금은 피트니스 앱을 제작중이에요.
   - ✍️ 배운 건 블로그에 흘려 둡니다. 남겨 놓으면 나중에 제가 제일 많이 찾아봐요.
 
   ---
@@ -26,12 +26,10 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+  
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -46,30 +44,6 @@
   </p>
 
   <p align="center">
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-  ---
-
-  ### 📊 Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mountainn-dev&theme=tokyonight&hide_border=true" alt="streak" height="165" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountainn-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  alt="top-langs" height="165" />
-  </p>
 
   ---
 
