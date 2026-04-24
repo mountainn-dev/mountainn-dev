@@ -1,7 +1,6 @@
   <!-- 상단 배너 -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn-dev&fontSize=58&fon
-  tColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn-dev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
   </p>
 
   <!-- 타이핑 애니메이션 -->
@@ -42,8 +41,7 @@
   ### 📊 Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_b
-  order=true&rank_icon=github" alt="stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="165" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mountainn-dev&theme=tokyonight&hide_border=true" alt="streak" height="165" />
   </p>
 
@@ -64,8 +62,7 @@
   ### 📊 Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_b
-  order=true&rank_icon=github" alt="stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="165" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mountainn-dev&theme=tokyonight&hide_border=true" alt="streak" height="165" />
   </p>
 
