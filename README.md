@@ -1,61 +1,25 @@
-  <!-- 상단 배너 -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mountainn&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
-  </p>
+## mountainn
 
-  <!-- 타이핑 애니메이션 -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4A90E2&center=true&vCenter=true&width=540&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%AA%A8%EB%B0%94%EC%9D%BC+%EC%95%B1+%EB%A7%8C%EB%93%9C%EB%8A%94+mountainn%EC%9D%B4%EC%97%90%EC%9A%94;%EC%86%90%EC%97%90+%EC%9E%A1%ED%9E%88%EB%8A%94+%EA%B1%B8+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B2%8C+%EC%A2%8B%EC%95%84%EC%9A%94;%EA%B8%B0%EB%A1%9D%EC%9D%80+%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90+%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4&v=2" alt="typing" />
-  </p>
+모바일 앱 만드는 개발자예요. 주로 Flutter로 작업하고 네이티브까지 내려가야 할 땐 Kotlin을 씁니다.
+몇 달 뒤에 다시 열어봐도 읽히는 코드를 좋아해요.
 
-  ---
+### 요즘 하는 일
 
-  ### 🙋‍♂ About
+LightWeight에서 라잇웨잇 앱을 만들고 있어요. 헬스장 머신을 모터로 대체하는 서비스인데 저는 그 옆에서 도는 모바일 쪽을 맡고 있습니다.
 
-  - 🏔️ 모바일 앱 만드는 mountainn이에요. 사용자 손에 가까운 레이어에서 벌어지는 일이 제일 재밌어요.
-  - 📱 요즘은 Flutter로 주로 작업하고, 필요할 땐 Android 네이티브(Kotlin)도 같이 씁니다.
-  - 🧱 Clean Architecture랑 MVVM을 선호해요. 몇 달 뒤에 다시 열어봐도 읽히는 코드면 좋겠다는 쪽이에요.
-  - 🌱 지금은 피트니스 앱을 제작중이에요.
-  - ✍️ 배운 건 블로그에 흘려 둡니다. 남겨 놓으면 나중에 제가 제일 많이 찾아봐요.
+- 회원용 앱(Android · iOS)이랑 트레이너용 태블릿 앱을 한 저장소에서 같이 굴려요. pub workspace로 앱 2개와 패키지 21개를 묶었고 도메인 하나가 패키지 하나예요.
+- 루틴을 도는 동안 머신 쪽 태블릿과 Supabase Realtime으로 운동 기록을 주고받습니다.
+- 패키지끼리 순환 의존이 생기면 커밋 훅에서 걸리게 해 뒀어요. 구조는 규칙보다 스크립트가 지켜 주는 게 편하더라고요.
 
-  ---
+### 만든 것들
 
-  ### 🛠️ 주로 쓰는 것들
+- [**Busing**](https://github.com/mountainn-dev/Busing) — 버스 도착 정보 앱 · Kotlin
+- [**CJHeartRateMonitor**](https://github.com/mountainn-dev/CJHeartRateMonitorWearOs) — Wear OS로 심박수를 재서 폰으로 넘기는 앱 · Kotlin
 
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 쓰는 것들
 
-  ---
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio,firebase,supabase,sqlite,git,figma" alt="Dart, Flutter, Kotlin, Android Studio, Firebase, Supabase, SQLite, Git, Figma" />
 
-  ### 📊 Stats
+### 블로그
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mountainn-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mountainn-dev&theme=tokyonight&hide_border=true" alt="streak" height="165" />
-  </p>
-
-  <p align="center">
-
-  ---
-
-  ### 📝 Blog
-
-  코드 고민이나 삽질 기록은 이쪽에 쌓아 두고 있어요.
-  👉 [mountaincoding.tistory.com](https://mountaincoding.tistory.com/)
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mountainn-dev&label=Profile%20views&color=4A90E2&style=flat" alt="views" />
-  </p>
-
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" alt="footer" />
-  </p>
+삽질한 건 [mountaincoding.tistory.com](https://mountaincoding.tistory.com/)에 적어 둡니다. 나중에 제일 자주 들춰 보는 사람이 저예요.
